@@ -93,7 +93,7 @@ func Table() {
 	data := [][]string{
 		[]string{"慕", "", "", ""},
 		[]string{"课", "", "", ""},
-		[]string{"下", "Esword", "Spiders and AI", "https://github.com/Esword618/MOOC"},
+		[]string{"下", "Esword", "Spiders and AI", "https://github.com/Esword618/moocVip"},
 		[]string{"载", "", "", ""},
 		[]string{"器", "", "", ""},
 	}
