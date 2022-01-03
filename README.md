@@ -23,8 +23,7 @@
 
 ## 请我喝茶
 
-<img src="https://cdn.jsdelivr.net/gh/Esword56/blogImg@main/vx/zfb.6lpmd42gysc0.webp" alt="zfb" style="zoom: 33%;" />
+<img src="https://github.com/Ajian-jyj/Ajian-jyj/blob/main/data/vx.jpg" width="480" height="600" alt="微信"/><br/>
 
+<img src="https://github.com/Ajian-jyj/Ajian-jyj/blob/main/data/zfb.png" width="480" height="600" alt="支付宝"/><br/>
 
-
-<img src="https://cdn.jsdelivr.net/gh/Esword56/blogImg@main/vx/vx.34foa2w94140.webp" alt="vx" style="zoom:33%;" />
